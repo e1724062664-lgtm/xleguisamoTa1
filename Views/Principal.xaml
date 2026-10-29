@@ -12,7 +12,7 @@
             
             <Label Text="UNIVERSIDAD ISRAEL"
                    FontSize="22"
-                   FontAttributes="Bold"
+                   FontAttributes="Italic"
                    TextColor="#003366" 
                    HorizontalOptions="Center" />
 
